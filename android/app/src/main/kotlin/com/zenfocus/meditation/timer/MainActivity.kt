@@ -1,4 +1,4 @@
-package com.pulsefit.workout.hiit
+package com.zenfocus.meditation.timer
 
 import io.flutter.embedding.android.FlutterActivity
 
